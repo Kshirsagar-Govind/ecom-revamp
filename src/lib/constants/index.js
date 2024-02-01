@@ -1,1 +1,1 @@
-export const REACT_APP_HOST="http://localhost:5500/gameshop";
+export const REACT_APP_HOST="https://server-plum-gamma.vercel.app/gameshop";
